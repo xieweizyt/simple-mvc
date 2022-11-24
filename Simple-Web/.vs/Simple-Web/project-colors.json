@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3068300e-440d-45ed-b624-a2e14659c338": {
+      "ProjectGuid": "3068300e-440d-45ed-b624-a2e14659c338",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 0
+    },
+    "470bc52a-fe82-42d8-95ff-5d2025b5f387": {
+      "ProjectGuid": "470bc52a-fe82-42d8-95ff-5d2025b5f387",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
